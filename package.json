@@ -1,8 +1,0 @@
-{
-	"name": "ob-kb-funnel",
-	"version": "5.6.3",
-	"dependencies": {
-		"numeral": "1.5.3",
-		"d3-funnel": "1.0.0"
-	}
-}
